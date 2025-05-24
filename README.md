@@ -8,7 +8,7 @@ Welcome to my **TypeScript Learning Repository**! This repo is a comprehensive g
 
 - ✅ Basic Types and Annotations
 - 🧠 Type Inference and Type Aliases
-- 🧱 Interfaces and Classes (OOP)
+- 🧱 Interfaces
 - 🧩 Generics and Utility Types
 - 🔁 Enums, Tuples, and Type Guards
 - 📦 Modules and Namespaces
